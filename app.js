@@ -13,6 +13,7 @@ resetBtn.addEventListener("click", () => {
     })
 })
 
+
 let currTurn = "X";
 let gameOver = false;
 
